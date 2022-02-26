@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for further doubling upon and finishing the sale of Deans, Deans &amp; Chapters lands, and of mannors of rectories, gleablands, &amp;c. Thursday May. 4. 1654.</title>
+            <title>Orders in Council. 1654-05-04.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74538</idno>
+            <idno type="STC">Thomason E1064_1</idno>
+            <idno type="STC">ESTC R210156</idno>
+            <idno type="EEBO-CITATION">99868981</idno>
+            <idno type="PROQUEST">99868981</idno>
+            <idno type="VID">169202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169202)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for further doubling upon and finishing the sale of Deans, Deans &amp; Chapters lands, and of mannors of rectories, gleablands, &amp;c. Thursday May. 4. 1654.</title>
+                  <title>Orders in Council. 1654-05-04.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 319-330 [i.e. 332] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 332 misnumbered 330.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church property --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Joe Kilduff</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Joe Kilduff</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:169202:1" rendition="simple:additions"/>
+AN ORDINANCE FOR Further Doubling upon AND Finishing the SALE OF Deans, Deans &amp; Chapters LANDS, And of Mannors of Rectories, Gleab<g ref="char:EOLhyphen"/>lands, &amp;c.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Thurſday May</hi> 4. 1654.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169202:2"/>
+            <pb n="319" facs="tcp:169202:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure> AN ORDINANCE FOR Further doubling upon and finiſhing the ſale of Deans, Deans and Chapters Lands, and of Mannors of Rectories, Gleab-Lands, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>hereas by one Act of Parlament entituled,</hi> An Act for ſale of the Mannors of Rectories and Glebe-lands, late be<g ref="char:EOLhyphen"/>longing to Arch Biſhops, Biſhops, Deans, Deans and Chapters, <hi>It is enacted and Decla<g ref="char:EOLhyphen"/>red, That all Man<g ref="char:EOLhyphen"/>nors of Rectories, impropriate Meſſuages,</hi>
+               <pb n="320" facs="tcp:169202:3"/>
+Tenements, Gleab-lands, Paſtures, Mea<g ref="char:EOLhyphen"/>dows, Marſhes, belonging to any Rectorie impropriate, and Fee-farm Rents, iſſuing out of Mannors or Rectories impropriate, jointly or ſeverally charged therewith late belonging or appertaining to any Rectorie impropriate, Parſonage, Church, Chappel, or Donative, late appertaining or belonging to any Arch-Bi<g ref="char:EOLhyphen"/>ſhop, Biſhop, Dean, Dean and Chapter, Pre<g ref="char:EOLhyphen"/>bend or other perſon or perſons or bodies Poli<g ref="char:EOLhyphen"/>tique, mentioned in one Ordinance of the ninth of <hi>December</hi> 1646. Entituled, <hi>An Ordinance of this preſent Parlament for aboliſhing of Arch-Biſhops and Biſhops within the Common-wealth of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and for ſettling their Lands and Poſſeſſions upon Truſtees for the uſe of the Com<g ref="char:EOLhyphen"/>mon-wealth.</hi> And in one Act of Parlament, Entituled, <hi>An Act of the Commons of <hi>England</hi> in Parlament aſſembled for the aboliſhing of Deans, Deans and Chapters, Canons, Prebends, and other offices and titles of or belonging to any Cathedral or Collegiate Church or Chappel within <hi>England</hi> and <hi>Wales,</hi>
+               </hi> to be aboliſhed in right of his or their ſaid Office or function, ſhould be and were ſettled in the full ſeiſon and poſſeſſion of the reſpective Truſtees in the ſaid Ordinance and Act named, their Heirs and Aſſigns. And the ſaid reſpective Truſtees in the ſaid Ordinance and Act named were authorized &amp; required to contract, bargain, ſell, alien, and conveigh all and every the Pre<g ref="char:EOLhyphen"/>miſſes, and to execute all powers and authorities in ſale thereof, as they might have done in the
+<pb n="319" facs="tcp:169202:3"/>
+ſale of any Honors, Mannors, or Lands in the ſaid Ordinance and Act mentioned. And whereas likewiſe by one other Act, Entitu<g ref="char:EOLhyphen"/>led, <hi>An Additional Act, for the more ſpeedy effect<g ref="char:EOLhyphen"/>ing of the Sale of the Mannors of Rectories and Glebe<g ref="char:EOLhyphen"/>lands, late belonging to the Arch-Biſhops, Biſhops, Deans, Deans and Chapters, &amp;c. and for the better incouragement of Lenders upon the ſecuritie there<g ref="char:EOLhyphen"/>of, and of other Lands and Hereditaments of the ſaid Deans and Chapters,</hi> The Parlament did enact and declare, that all and ſingular the Ho<g ref="char:EOLhyphen"/>nors, Mannors, Lands, Tenements and Hereditaments, which by the ſaid Act for aboliſhing of Deans, Deans and Chapters, &amp;c. were expoſed to ſale, and not contracted for before the five and twentieth day of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> One thouſand ſix hundred and fiftie, (other then ſuch as by the ſaid laſt recived Act were reſerved from ſale) ſhould bee and were thereby declared to bee part of the ſecu<g ref="char:EOLhyphen"/>ritie for the one hundred and twentie thou<g ref="char:EOLhyphen"/>ſand pounds, which by the ſaid forerecited Act was to bee borrowed, &amp; ſhould extend to ſecure as well the debts, principal and inte<g ref="char:EOLhyphen"/>reſt, which ſhould bee doubled, as for the moneys which ſhould bee advanced and paid in to double the ſame, and the intereſt from the time of doubling until the payment. And that if the Mannors, Lands, Tenements, and hereditaments (by the ſaid Act for aboliſhing of Deans, Deans and Chapters, &amp;c. expoſed to ſale) ſo contracted for before the five and twentieth day of <hi>October,</hi> One thouſand ſix hundred and fiftie, ſhould (ac<g ref="char:EOLhyphen"/>cording to the rates at which the ſame were contracted for) amount unto a greater va<g ref="char:EOLhyphen"/>lue
+<pb n="320" facs="tcp:169202:4"/>
+than the moneys, debts and other char<g ref="char:EOLhyphen"/>ges, which before the ſecond day of <hi>October,</hi> One thouſand ſix hundred and fiftie, were charged upon the ſame, or to bee ſatisfied thereby, and it ſhould bee ſo declared by the Committee for obſtructions; That in ſuch caſe the overplus of the value of the premiſ<g ref="char:EOLhyphen"/>ſes ſo contracted for, ſhould alſo bee, and ſhould bee accounted as part of the ſecuritie for the ſaid moneys: And it was alſo En<g ref="char:EOLhyphen"/>acted and Ordeined, that the Truſtees in whom the ſame premiſſes ſo intended for ſecuritie were reſpectively veſted, and their heirs reſpectively ſhould ſtand ſeized thereof, and of the Rents, iſſues and profits thereof, until ſale; And of the moneys which ſhould bee raiſed by the ſale thereof, unto and for the uſes following, <hi>viz.</hi> for the payment of the moneys and debts which ſhould bee ow<g ref="char:EOLhyphen"/>ing upon the ſecuritie of the ſaid premiſſes, and all ſalaries and incident charges, and the remainder thereof to the uſe of the Com<g ref="char:EOLhyphen"/>mon-Wealth, in ſuch manner as the Parla<g ref="char:EOLhyphen"/>ment ſhould appoint; And that all and eve<g ref="char:EOLhyphen"/>ry the ſaid Rents, iſſues and profits of the premiſſes, and moneys to bee raiſed by the ſale thereof, ſhould bee paid and iſſued out to the purpoſes aforeſaid, by the Treaſurers thereof, according to ſuch warrant as they ſhould receive from the Truſtees for Deans, Deans and Chapters lands, or any five or more of them, in that behalf; And whereas by the ſaid laſt recited Act all and every the premiſſes ſo appointed for ſecuritie as afore<g ref="char:EOLhyphen"/>ſaid, were appointed to bee ſold, and were abſolutely diſpoſed unto the ſaid reſpective
+<pb n="321" facs="tcp:169202:4"/>
+Truſtees for that purpoſe, as well for ſa<g ref="char:EOLhyphen"/>tisfying the moneys upon the ſaid Securitie, and for raiſing of moneys for the Service of the Common Wealth as alſo, to put a full end unto that buſineſs, and the charge of Officers, and others employed therein.</p>
+            <p>And whereas nevertheleſs, ſom part of the Premiſſes yet remaineth unſold, there being ſo much already contracted for, as is ſuffici<g ref="char:EOLhyphen"/>ent to ſatisfie all the Moneys due upon the former Securities: And whereas alſo for<g ref="char:EOLhyphen"/>mer Contracts could not bee ſo exactly ſetled as to the preciſe ſummes, by differing Secu<g ref="char:EOLhyphen"/>rities, reſpectively charged upon the Reve<g ref="char:EOLhyphen"/>nue of the ſaid Deans, Deans and Chap<g ref="char:EOLhyphen"/>ters, and other the Premiſſes aforeſaid, whereby ſom ſort of Debts, to which the ſaid Premiſſes are lyable, are more then pro<g ref="char:EOLhyphen"/>vided for to a conſiderable value, and the reſt not applicable to ſatisfie ſuch overplus which doth tend to the diſadvantage both of particular Perſons, and alſo of the Com<g ref="char:EOLhyphen"/>mon-Wealth, by retarding the whole work. To the end therefore, a ſpeedy end may bee put to the ſaid Sale, and the Common-Wealth eaſed of the burthen and charge thereof;</p>
+            <p>Bee it Ordained by his highneſs the Lord Protector, by and with the conſent of his Council and it is Ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid. That over and above the ſumme of three hundred thouſand pounds, appointed to bee borrowed upon the Secu<g ref="char:EOLhyphen"/>ritie held forth by the firſt recited Act, and over and above the ſumme of one hundred and twenty thouſand pounds more, borrow<g ref="char:EOLhyphen"/>ed upon the Securitie held forth in the two
+<pb n="322" facs="tcp:169202:5"/>
+laſt recited Acts, or either of them, the ſumme of twenty thouſand pounds ſhall bee further borrowed upon the Securitie of ſuch of the Premiſſes reſpectively, expoſed to ſale by the ſaid Acts, or either of them, in ſuch ſort as is hereafter expreſſed, by way of doubling the like ſumme, as ſhall bee due to any per<g ref="char:EOLhyphen"/>ſon or perſons, Body politick or Corporate, for any Money, Plate, Norl, Arms, or other thing advanced upon the Publick Faith, or which hath been at any time allowed by any Act or Ordinance of Parlament, to bee dou<g ref="char:EOLhyphen"/>bled, as Publick Faith; together with Intereſt upon ſuch Publick Faith Debts, after the rate of eight pounds in the hun<g ref="char:EOLhyphen"/>dred, by the year, untill the ſtating of ſuch Debts and Intereſt, by the Perſons named and appointed in and by an Act of Parla<g ref="char:EOLhyphen"/>ment, Entituled, <hi>An Additional Act for ſale of ſeveral Lands and Eſtates forfeited to the Common<g ref="char:EOLhyphen"/>wealth for Treaſon,</hi> to bee Regiſter Accomptant or any of them which the ſaid Perſons, or any of them, are hereby authorized to ſtate accordingly. And after the ſtating of ſuch Debts and Intereſt, and doubling thereof, the reſpective Creditors to bee allowed onely ſix pounds in the hundred by the year, for the whole of ſuch doubled Publick Faith Debts, untill the payment thereof, or defal<g ref="char:EOLhyphen"/>cation upon purchaſe, In relation to which doubling intended by this Ordinance, the Truſtees, Treaſurers, Regiſter and Ac<g ref="char:EOLhyphen"/>comptant, and all other officers concerned therein, are hereby authorized and required to proceed according to the directions of the Acts of Parlament in like caſe made and provided, ſave onely as to what is hereby
+<pb n="323" facs="tcp:169202:5"/>
+altered, reſtrictive to the debts, and to al<g ref="char:EOLhyphen"/>lowance of intereſt as aforeſaid, and all and every perſon and perſons, bodie politick and corporate, to whom any debts capable of doubling within this preſent Ordinance, ſhall bee due, and his and their reſpective aſſigns, and all perſons doubling ſuch debts and their reſpective aſſigns, ſhall have all and the like liberties, privileges, benefits, and advantages reſpectively in reference to the premiſſes, as any ſuch perſon or perſons, bodies politick or corporate, their or any of their aſſigns might or ought to have had by the aforeſaid recited Acts or either of them, ſave onely what is hereby altered with re<g ref="char:EOLhyphen"/>ſtriction to debts and intereſts as aforeſaid, and all and every perſon and perſons who ſhall have their debts and intereſts ſtated as aforeſaid, ſhall pay into the Treaſurers na<g ref="char:EOLhyphen"/>med in the ſaid Act for ſale of the ſaid Man<g ref="char:EOLhyphen"/>nors of Rectories, or one of them, the money wherewith he or they ought to double with<g ref="char:EOLhyphen"/>in ten dayes next after Certificate thereof to the Treaſurers, or otherwiſe ſhall loſe his or their Publick Faith debts, unleſs hee or they ſhall ſhew good cauſe to the Trea<g ref="char:EOLhyphen"/>ſurers or any one of them for his or their fal<g ref="char:EOLhyphen"/>ler therein. And bee it further Ordeined, that both the Certificates or Receipts to bee given by the ſaid Treaſurers, or one of them, for moneys to bee doubled upon the ſecuritie held forth by this preſent Ordi<g ref="char:EOLhyphen"/>nance, as alſo all Certificates, Receipts, or Bills for moneys or debts doubled or tranſ<g ref="char:EOLhyphen"/>ferred upon the ſecurities held forth by any the Acts aforeſaid, which were defalke able in
+<pb n="324" facs="tcp:169202:6"/>
+payment for any purchaſe made within the ſame former Acts or any of them ſhall be and are herby made to be defalkeable in payment in manner and form following; That is to ſay, the Certificates or Receipts for moneys to bee doubled upon the ſecuritie held forth by this preſent Ordinance, ſhall bee defalkeable in payment for both moities of the purchaſe moneys, payable for any part of the premiſſes which yet remain un<g ref="char:EOLhyphen"/>contracted for, and in payment for all ſecond moities payable upon contracts made of any the ſaid premiſſes, at any time before the paſ<g ref="char:EOLhyphen"/>ſing of this Ordinance; And the Certifi<g ref="char:EOLhyphen"/>cates, Receipts or Bils for moneys doubled, or transferred upon the ſecurities held forth by any the ſaid Acts, ſhall bee equally and alike defalkeable for any or both moities of the purchaſe money, payable for any the premiſſes expoſed to ſale by any the former Acts either contracted or uncontracted for: And the Treaſurers and all other of<g ref="char:EOLhyphen"/>ficers concerned therein, are hereby authori<g ref="char:EOLhyphen"/>zed and required to admit and allow thereof accordingly; Provided that all de<g ref="char:EOLhyphen"/>falkations to bee made by virtue of this Ordinance, for moneys due upon any the Certificates, Receipts, or Bills aforeſaid, ſhall bee of one diſtinct accompt, as to the whole, or any moitie of the purchaſe mo<g ref="char:EOLhyphen"/>ney for which they ſhall bee ſo defalk<g ref="char:EOLhyphen"/>ed; Provided alſo that where any pur<g ref="char:EOLhyphen"/>chaſer or purchaſers, his or their Aſſign or Aſſigns ſhall tender any Bills or Receipts by this Ordinance made applicable for pay<g ref="char:EOLhyphen"/>ment of any ſecond Moity, other then ſuch
+<pb n="325" facs="tcp:169202:6"/>
+Bills or Receipts, as by his or their Con<g ref="char:EOLhyphen"/>tract ought to have been applied thereunto; the party or parties ſo tendring ſuch Bills or Receipts, ſhall defalk ſo much more in value, as ſhall countervail the Intereſt in<g ref="char:EOLhyphen"/>curred by his or their elapſed time. For which ſecond Moities, as alſo for defalcations as aforeſaid, the ſaid Treaſurers, or one of them, are hereby authorized to give ſuch Purchaſer his or their Receipt or Acquit<g ref="char:EOLhyphen"/>tance and re-Conveyance accordingly. And bee it further Ordained and declared by the Au<g ref="char:EOLhyphen"/>thoritie aforeſaid, That where any preſent Eſtate of, or in any the Lands or poſſeſſi<g ref="char:EOLhyphen"/>ons of the late Arch Biſhops, Biſhops, Deans, Deans and Chapters, Cannons; Prevends, and other the perſons aforeſaid, ſhall bee doubtfully returned upon any Sur<g ref="char:EOLhyphen"/>vey, either as to the Certain being or Le<g ref="char:EOLhyphen"/>gality of any Leaſ, or Copy of Court Roll. or any Life or Lives upon any Leaſ or Co<g ref="char:EOLhyphen"/>py of Court Roll; the Temant or Ten<g ref="char:EOLhyphen"/>nants claiming ſuch Leaſ, Copy or Eſtate, ſhall (as to the Lands already Surveyed) before the firſt day of <hi>July,</hi> one thouſand ſix hundred fiftie and four; and as to the Lands unſurveyed, within three moneths next after the reſpective Returns of the Sur<g ref="char:EOLhyphen"/>veys thereof to the reſpective Regiſters for ſale of the premiſſes, make proof of his or their Eſtate or Eſtates before the Commiſ<g ref="char:EOLhyphen"/>ſioners for removing of Obſtructions, and procure their Order for Allowance thereof, or otherwiſe ſhall bee for ever barred and ex<g ref="char:EOLhyphen"/>cluded from any benefit or advantage there<g ref="char:EOLhyphen"/>by. Provided nevertheleſs, That the Pow<g ref="char:EOLhyphen"/>er given by the former Acts to the Survey<g ref="char:EOLhyphen"/>or
+<pb n="326" facs="tcp:169202:7"/>
+General, as alſo the Power given by Or<g ref="char:EOLhyphen"/>dinance of Parlament to the Contractors for ſale of Biſhops Lands, for allowance of any eſtates made good by proof before them reſpectively, within forty days next after the return of the Survey of any of the premiſſes, bee not any wayes impeached. And provi<g ref="char:EOLhyphen"/>ded alſo, that the power given or transfer<g ref="char:EOLhyphen"/>red to the Commiſſioners for removing of Obſtructions, by any Ordinance or act of Parlament for allowance of Eſtates, bee not any wayes hereby enlarged.</p>
+            <p>And bee it further Ordained, That any two Surveyors Commiſſionated by the re<g ref="char:EOLhyphen"/>ſpective Truſtees for ſale of the Premiſſes, ſhall have like power to all intents and pur<g ref="char:EOLhyphen"/>poſes as is given to any three or more Survey<g ref="char:EOLhyphen"/>ors, ſo Commiſſionated by the Ordinance for ſale of Biſhops Lands, And that for the per<g ref="char:EOLhyphen"/>fecting of any Surveys already returned or which ſhall bee returned imperfect, where the Charge of a re-ſurvey (in regard of the ſmall value of the Lands remoteneſs of their ſitua<g ref="char:EOLhyphen"/>tion, or otherwiſe) may bee conceived too great for the Common wealth to bear: it ſhall bee in every ſuch caſe in the power of <hi>William Webb</hi> Eſquire, Surveyor General, to inform himſelf by the beſt means and wayes hee can, touching the premiſſes, either by oath, or otherwiſe, (which Oath hee is hereby authorized to admi<g ref="char:EOLhyphen"/>niſter) and upon ſuch Information had, and by him communicated to the reſpective Contra<g ref="char:EOLhyphen"/>ctors, or any three or more of them, hee ſhall and may by and with their advice, amend and per<g ref="char:EOLhyphen"/>fect any ſuch Survey accordingly.</p>
+            <p>And bee it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That in caſe any perſon or perſons
+<pb n="327" facs="tcp:169202:7"/>
+who hold in his or their poſſeſſion or tenure, any of the lands, tenements and heredita<g ref="char:EOLhyphen"/>ments of the late Arch-Biſhops, Biſhops, Deans, Deans and Chapters, Cannons, Prevends, &amp;c. which by this preſent Ordi<g ref="char:EOLhyphen"/>nance, or any Ordinance or former Act of Parlament, are expoſed to ſale, and yet un<g ref="char:EOLhyphen"/>diſcovered, and which are or ought to bee in the preſent poſſeſſion of the reſpective Truſtees for the uſe of the Common<g ref="char:EOLhyphen"/>wealth, ſhall make the firſt diſcoverie there<g ref="char:EOLhyphen"/>of to the Surveyor General, before named; every ſuch perſon or perſons deſiring the ſame, ſhall bee admitted the preem<g ref="char:EOLhyphen"/>ption of all ſuch lands, rents, duties, and payments, by him or them diſcovered, at the loweſt rates the reſpective Contractors are enabled to ſell the ſame for, by any Act or Ordinance of Parlament in that behalf; And where any perſon or perſons poſſeſſed of any the lands or premiſſes, aforeſaid, yet un<g ref="char:EOLhyphen"/>diſcovered, by virtue of any Leaſ or Copie of Court-roll, dated before the firſt of <hi>December,</hi> One thouſand ſix hundred fourty one, grant<g ref="char:EOLhyphen"/>ed by any who had power to make or grant the ſame, ſhall before the ſaid firſt day of <hi>July,</hi> bring or ſend in a true Copie of his or their Leaſ or Leaſes, Copie or Copies of Court-roll, to the ſaid Surveyor general, that a Survey may bee had of the premiſſes, every ſuch perſon coming in within thirtie days next after the Return of any ſuch ſur<g ref="char:EOLhyphen"/>vey, ſhall bee admitted to the preemption of the reverſion of his Leaſ or Copie, with the preſent Rent incident thereunto at the low<g ref="char:EOLhyphen"/>eſt rates, the reſpective contractors are ena<g ref="char:EOLhyphen"/>bled
+<pb n="328" facs="tcp:169202:8"/>
+to ſell, as aforeſaid. And in caſe of his or their neglect to bring or ſend in ſuch true copie or copies, before the ſaid firſt day of <hi>July,</hi> all and every ſuch perſon and perſons, ſhall forfeit and loſe his or their preſent eſtate, by Leaſ or Copie; and any perſon or perſons, who afterwards ſhall diſcover the ſame, ſhall have, and bee admitted to the pre<g ref="char:EOLhyphen"/>emption of the preſent poſſeſſion of ſuch Lands, and have the ſame conveyed to him or them, or to whomſoever hee or they ſhall nominate, and to his or their heirs and aſ<g ref="char:EOLhyphen"/>ſigns, at the like loweſt rates the Contra<g ref="char:EOLhyphen"/>ctors are enabled to ſell as aforeſaid, any clauſ in this Ordinance, or any former Act or Ordinance of Parlament to the contrarie notwithſtanding.</p>
+            <p>And bee it further Ordeined by the Autho<g ref="char:EOLhyphen"/>ritie aforeſaid, That Sir <hi>William Roberts</hi> Knight, <hi>John Blackwell</hi> the Elder, <hi>James Ruſſell, Timothy Midleton, Robert Fenwicke, Thomas Aires,</hi> and <hi>Edward Creſſet,</hi> Eſquires, Contractors named (with others) in an Ordinance of the Lords and Commons aſſembled in Parlament, of the ſixteenth of November, One thouſand ſix hundred fortie ſix, appointing the ſale of the Lands and Poſſeſſions of the late Arch-biſhops, and Biſhops, for the uſe of the Common-Wealth, or any three or more of them, bee, and are hereby authorized, to do, uſe, exerciſe, per<g ref="char:EOLhyphen"/>form, and execute all and every the Act and Acts, Authorities, Powers, and things relating aſwell to the ſale of the ſaid Lands and poſſeſſions, as to the ſale of the Man<g ref="char:EOLhyphen"/>nors of Rectories, and Glebe Lands &amp;c.
+<pb n="329" facs="tcp:169202:8"/>
+lately belonging to the ſaid Arch-biſhops, and Biſhops, which any ſix or more of the Contractors named in the ſaid Ordinance, by virtue thereof, or any five or more of them by virtue of the former recited Act for ſale of the Mannors of Rectories, or by virtue of any additional Ordinances or Acts of Parlament concerning the ſale of the premiſſes reſpectively, may, might, or ought to have don, uſed, exerciſed, per<g ref="char:EOLhyphen"/>formed, or executed, to all Intents, Con<g ref="char:EOLhyphen"/>ſtructions, and purpoſes.</p>
+            <p>And it is alſo further Ordeined, That the reſpective Truſtees, Contractors, Treaſurers, Regiſter, Accomptant, Sur<g ref="char:EOLhyphen"/>veyor General, and all other Officers at<g ref="char:EOLhyphen"/>tending the Sale of the Premiſſes, and eve<g ref="char:EOLhyphen"/>ry of them bee hereby authorized and requi<g ref="char:EOLhyphen"/>red in all things relating to the putting of this Ordinance in execution (other than ſuch as are hereby altered or otherwiſe directed, to purſue the directions of the former Acts and Ordinances reſpectively concerning the ſame. And for the more proper iſſuing out of the Rents, Iſſues, and profits of the premiſſes, together with the moneys ariſe<g ref="char:EOLhyphen"/>ing by the Sale thereof, It is further Or<g ref="char:EOLhyphen"/>deined by the Authoritie aforeſaid, That the Truſtees for Sale of Biſhops Lands, ſhall have power, and are hereby impow<g ref="char:EOLhyphen"/>red, to make warrants to the Treaſurers for the Sale of the Mannors of Rectories, Glebs &amp;c. or one of them, for the payment of ſuch incident charges as have or ſhall ariſe upon the Sale of the Mannors of Re<g ref="char:EOLhyphen"/>ctories, Glebes &amp;c. belonging to the late
+<pb n="330" facs="tcp:169202:9"/>
+Arch-biſhops, and Biſhops, onely; And the ſaid Treaſurers are hereby required to pay and diſcharge the ſaid warrants from time to time accordingly, Any thing in any former Act to the Contrary hereof notwithſtanding; and alſo that the Trea<g ref="char:EOLhyphen"/>ſurers appointed by this Ordinance to Re<g ref="char:EOLhyphen"/>ceiv ſuch moneys as ſhall bee doubled here<g ref="char:EOLhyphen"/>on, ſhall not iſſue forth any part of the Twentie thouſand pounds hereby appoin<g ref="char:EOLhyphen"/>ted to bee doubled, but by, and in ſuch manner, as his highneſs with the advice and conſent of the Council ſhall direct.</p>
+            <p>Provided that this Ordinance nor any thing therin conteined, ſhal not extend to im<g ref="char:EOLhyphen"/>power the reſpective Treaſurers to grant any further or greater allowance to any perſons imployed, or to bee imployed in the perfecting of this work, then what hath been heretofore allowed unto them, or any of them, or to others in their places reſpe<g ref="char:EOLhyphen"/>ctively.</p>
+            <p>And bee it moreover Ordeined by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That <hi>James Noêl</hi> ſhall bee Treaſurer in the Room of Alderman <hi>Tho<g ref="char:EOLhyphen"/>mas Noēl</hi> late deceaſed, in relation to all mo<g ref="char:EOLhyphen"/>neys heretofore doubled at Weavers-Hall, upon the ſecuritie of Biſhops Lands &amp;c. who is hereby impowred and required to ex<g ref="char:EOLhyphen"/>ecute &amp; perform all and every ſuch powers and authorities and duties, relateing to the diſcharge of his place, as the ſaid <hi>Tho<g ref="char:EOLhyphen"/>mas Noēl</hi> by virtue of any former Ordinance or Act of Parlament might have don.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Tueſday 4<hi rend="sup">th</hi> 
+                     <hi>May,</hi> 1654.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by His Highneſs the</hi> Lord PROTECTOR <hi>and his Council, That this Ordinance bee forthwith Printed and publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Hen. Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
